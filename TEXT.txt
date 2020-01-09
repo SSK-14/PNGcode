@@ -1,0 +1,6 @@
+prompt = {'Enter text'};
+title = 'Input';
+dims = [1 80];
+definput={'enter here'};
+answer = inputdlg(prompt,title,dims,definput);
+f=msgbox(answer);

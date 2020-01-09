@@ -1,0 +1,1 @@
+"Plain Sight", an Image Steganography application developed using MATLAB, used to hide secret messages in images by embedding it to the least significant bit plane of the cover image. It uses various MATLAB library functions to perform the task.
